@@ -1,0 +1,121 @@
+{
+  "games": [
+    {
+      "name": "apotris",
+      "creator": {
+        "name": "Apostolos Kouzoukos",
+        "link": "https://twitter.com/a_kouzoukos"
+      },
+      "link": "https://akouzoukos.com/apotris/",
+      "console": "gba",
+      "description": "Apotris is a block stacking game for the Gameboy Advance! It features satisfying graphics, responsive controls and a large amount of customization so that you can tailor the game to your preferences! There are 11 game-modes to explore, with various options to keep yourself entertained (or challenged). You can even battle your friends using the Gameboy Advance Link Cable in 2-Player Battle.",
+      "oss": true,
+      "free": true,
+      "genre": ["Puzzle"],
+      "boxart": "https://cdn.thegamesdb.net/images/thumb/boxart/front/111048-1.jpg",
+      "images": [
+        "https://cdn.thegamesdb.net/images/cropped_center_thumb/titlescreen/111048-1.jpg",
+        "https://cdn.thegamesdb.net/images/cropped_center_thumb/screenshot/111048-1.jpg"
+      ]
+    },
+    {
+      "name": "Micro Mages",
+      "creator": {
+        "name": "Morphcat Games",
+        "link": "http://morphcat.de/"
+      },
+      "link": "http://morphcat.de/micromages/",
+      "console": "nes",
+      "description": "Once upon a time, in a small cottage within a dark forest, four mages and their beloved Princess spent a life in harmony.The mages were students at the renowned Hocus-Pocus Academy of Applied Magicks.To keep Princess safe during their study hours, they installed a giant lock on their front door. One day, the blue mage forgot to lock the door and when everyone came back home after a long day, their Princess was gone. A fairy bore terrible news: \"Strange things are happening in the old Demon Fortress atop Pretzel Mountain!\" The four mages did not hesitate.  After chanting a teleportation spell they had just learned at the Academy, they took off to the Demon Fortress.",
+      "oss": false,
+      "free": false,
+      "genre": ["Platformer"],
+      "boxart": "https://cdn.thegamesdb.net/images/thumb/boxart/front/64610-1.jpg",
+      "images": [
+        "https://cdn.thegamesdb.net/images/original/screenshot/64610-1.jpg",
+        "https://cdn.thegamesdb.net/images/original/screenshot/64610-2.jpg",
+        "https://cdn.thegamesdb.net/images/original/screenshot/64610-3.jpg",
+        "https://cdn.thegamesdb.net/images/original/screenshot/64610-4.jpg"
+      ]
+    },
+    {
+      "name": "Böbl",
+      "creator": {
+        "name": "Morphcat Games",
+        "link": "http://morphcat.de/"
+      },
+      "link": "https://morphcatgames.itch.io/bobl",
+      "console": "nes",
+      "description": "In Bobl we control a bubble, bubble, or whatever you want to call it, which must find the exit from the castle where it is locked up in the purest classic adventure style with \"metroidvanian\" touches. We can jump with it and float on the water, but if we touch a solid object, we die. Luckily there are some bells that, when played, store the position where they will appear again. In addition, we can momentarily dive to gain momentum in the jumps. Throughout the game we will improve our bubble with better features.",
+      "oss": false,
+      "free": true,
+      "genre": ["Platformer"],
+      "boxart": "https://cdn.thegamesdb.net/images/thumb/boxart/front/79773-1.jpg",
+      "images": [
+        "https://img.itch.zone/aW1hZ2UvODA5NzYyLzQ1Mzk3NTMucG5n/original/UceZwl.png",
+        "https://img.itch.zone/aW1hZ2UvODA5NzYyLzQ1Mzk3NTUucG5n/original/%2BYjBgR.png",
+        "https://img.itch.zone/aW1hZ2UvODA5NzYyLzQ1Mzk3NTcucG5n/original/pyT7aW.png",
+        "https://img.itch.zone/aW1hZ2UvODA5NzYyLzQ1Mzk3NTYucG5n/original/yscBs%2B.png"
+      ]
+    },
+    {
+      "name": "Generals of the Yang Family",
+      "creator": {
+        "name": "Piko Interactive",
+        "link": "https://www.pikointeractive.com/"
+      },
+      "link": "https://www.pixelheart.eu/en/produit/generals-of-the-yang-family-mega-drive/",
+      "console": "md",
+      "description": "The fate of your country rests on your shoulders! As members of the Yang family, it is your job to push back the Lao Dynasty and Wester Xia, who have come to invade your country. Choose your hero and face their terrible army, alone or with the help of a friend. With bare hands or stabbing, every move is allowed to defeat your opponents.",
+      "oss": false,
+      "free": false,
+      "genre": ["Platformer", "Action"],
+      "boxart": "https://www.pixelheart.eu/wp-content/uploads/2019/12/406745660370.jpg",
+      "images": [
+        "https://www.pixelheart.eu/wp-content/uploads/2019/12/357098861316.jpg",
+        "https://www.pixelheart.eu/wp-content/uploads/2019/12/747883668767.jpg"
+      ],
+      "videos": ["https://www.youtube.com/watch?v=stRZtunUJdQ"]
+    },
+    {
+      "name": "Papi Commando: Second Blood",
+      "creator": {
+        "name": "Studio Vetea",
+        "link": "https://vetea.itch.io/"
+      },
+      "link": "https://www.brokestudio.fr/product/papi-commando-second-blood-md/",
+      "console": "md",
+      "description": "Papi (Grandpa) is back and angrier than ever! Help him find his beloved Commostrad. alone or in coop mode with his wife, Mami (Grandma) Commando. Fight the terrible C++ forces through more than 100 missions across 10 stages until the final battle against the infamous Colonel KassTaGoul (also known as Colonel BreakYaFace)!",
+      "oss": false,
+      "free": false,
+      "genre": ["Action", "Shooter"],
+      "boxart": "https://cdn.thegamesdb.net/images/thumb/boxart/front/93383-1.jpg",
+      "images": [
+        "https://www.brokestudio.fr/wp-content/uploads/2020/10/papi-commando-second-blood-2.png",
+        "https://www.brokestudio.fr/wp-content/uploads/2020/10/papi-commando-second-blood-6.png"
+      ],
+      "videos": ["https://www.youtube.com/watch?v=EqhB2fyViQI"]
+    }
+  ],
+  "consoles": {
+    "gba": "Game boy advance",
+    "nes": "Nintendo entertainmnet system",
+    "md": "Megadrive"
+  },
+  "empty": {
+    "name": " ",
+    "creator": {
+      "name": "Studio Vetea",
+      "link": "https://vetea.itch.io/"
+    },
+    "link": "https://www.brokestudio.fr/product/papi-commando-second-blood-md/",
+    "console": "md",
+    "description": " ",
+    "oss": false,
+    "free": false,
+    "genre": [" "],
+    "boxart": "https://cdn.thegamesdb.net/images/thumb/boxart/front/93383-1.jpg",
+    "images": [],
+    "videos": []
+  }
+}
